@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/AndrejStratmann?ext=heatmap"/>
+</p>

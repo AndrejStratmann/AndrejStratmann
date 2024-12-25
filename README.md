@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 ## Hi there 👋
 
 <!--
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/AndrejStratmann?ext=heatmap"/>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">

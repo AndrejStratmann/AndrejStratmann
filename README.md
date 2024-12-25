@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-## Hi there 👋
+<h1 align="center">Hello, I'm Andrej</h1>
 
 <!--
 **AndrejStratmann/AndrejStratmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
